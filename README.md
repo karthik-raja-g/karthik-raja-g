@@ -3,9 +3,9 @@
 I'm an aspiring full stack developer, currently working on frontend and learning backend. 
 
 ### Goals for 2022:
-  :rocket: Contribute to open source.
-  :rocket: Build products in public.
-  :rocket: Learn backend technologies.
+  :rocket: Contribute to open source. <br/>
+  :rocket: Build products in public. <br/>
+  :rocket: Learn backend technologies. <br/>
   :rocket: Learn React native.
 
 
